@@ -1,0 +1,12 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    background-color:blue;
+    background-image: url('/Practica/Imagen/Back.jpg');
+    
+}
+h2{
+    color: aliceblue;
+    background-color: cornflowerblue;
+    display: block;
+}
