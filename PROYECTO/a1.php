@@ -42,8 +42,14 @@
     </div>
 
     <div> -
+    <?php   
+            //  Script PHP
+            echo  "contenido PHP";
+
+        ?>
         Contenido-
-        <?php
+        <?php   
+            //  Script PHP
             echo  "contenido PHP";
 
         ?>
